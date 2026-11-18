@@ -1,0 +1,16 @@
+    1  pwd
+    2  echo "Prénom Nom" > identificacao.txt
+    3  echo "Debora cruz monteiro" >> identificacao.txt
+    4  echo "140567" > identificacao.txt
+    5  echo "Prénom Nom" > identificacao.txt
+    6  echo "123456" >> identificacao.txt
+    7  cd /workspaces/LABINFO-03-26-27
+    8  pwd
+    9  rm README.md
+   10  mkdir A140567
+   11  cd A140567
+   12  pwd
+   13  echo "Teste de LI 2026/2027" > README.md
+   14  cd ..
+   15  pwd
+   16  history > cmdstask2.txt
